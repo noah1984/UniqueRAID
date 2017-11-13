@@ -23,7 +23,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace ParityResult
+namespace noah1984.ParityResult
 {
     class Program
     {
