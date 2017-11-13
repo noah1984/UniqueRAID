@@ -23,7 +23,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Unsplitter
+namespace noah1984.Unsplitter
 {
     class Program
     {
